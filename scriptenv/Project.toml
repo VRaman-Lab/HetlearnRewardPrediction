@@ -1,0 +1,5 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+HetlearnRewardPrediction = "05cc2692-12d3-4589-a320-b81221c481cc"
+PGFPlotsX = "8314cec4-20b6-5062-9cdb-752b83310925"
+SimulationHelper = "e250a342-baca-463d-b6ad-e18d1b037a83"

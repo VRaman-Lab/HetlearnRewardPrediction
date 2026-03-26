@@ -1,0 +1,10 @@
+/Manifest.toml
+/.vscode/
+/.DS_Store/
+/.julia/
+*.jl.cov
+*.jl.mem
+*.jl.*~
+*.jl.old
+*.jl.bak
+*.jl.tmp
